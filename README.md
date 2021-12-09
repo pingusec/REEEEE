@@ -30,7 +30,8 @@
     | Cyber Disc          | Course            | Elite    | Find  | 1/2 yrs    | HELP ME     |
     | CyberFirst Advanced | Course            | Advanced | Find  | 2 Weeks    | HELP ME     |
     | Work Experienced    | Placement Project | Advanced | Find  | 1 Month    | HELP ME     |
-    | LED Light Project   | Own Project       | Advanced | Find  | _3 Months_ | HELP ME     |
+    | LED Fixture Project   | Own Project       | Advanced | Find  | _3 Months_ | HELP ME     |
+    | InvestIN | Course | Introduction | Find | 1 Day | HELP ME | 
 
 - **cyber2**
 
