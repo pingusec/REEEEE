@@ -24,14 +24,16 @@
     - Start Date: `YYYY-MM-DD`
     - Duration in "typical working days"
     - Description - Up to 200 characters
+    - WHAT IS THIS???? LIKE WHAT? LIKE OK? LET ME SLAP 50 BILLION SPACES IN THIS FIELD TO MAKE IT 2.5Kb Long????? LIKE BRUH
+      > Any data within fields in the last row will be ignored.
 
-    | Name                | Type              | Level    | Start | Duration   | Description |
-    | ------------------- | ----------------- | -------- | ----- | ---------- | ----------- |
-    | Cyber Disc          | Course            | Elite    | Find  | 1/2 yrs    | HELP ME     |
-    | CyberFirst Advanced | Course            | Advanced | Find  | 2 Weeks    | HELP ME     |
-    | Work Experience    | Placement Project | Advanced | Find  | 1 Month    | HELP ME     |
-    | LED Fixture Project   | Own Project       | Advanced | Find  | _3 Months_ | HELP ME     |
-    | InvestIN | Course | Introduction | Find | 1 Day | HELP ME | 
+    | Name                | Type              | Level        | Start | Duration (in typical working days) | Description |
+    | ------------------- | ----------------- | ------------ | ----- | ---------------------------------- | ----------- |
+    | Cyber Disc          | Course            | Elite        | Find  | 2 Years                            | HELP ME     |
+    | CyberFirst Advanced | Course            | Advanced     | Find  | 2 Weeks                            | HELP ME     |
+    | Work Experienced    | Placement Project | Advanced     | Find  | 2 Weeks                            | HELP ME     |
+    | LED Fixture Project | Own Project       | Advanced     | Find  | 3 Months                           | HELP ME     |
+    | InvestIN            | Course            | Introduction | Find  | 1 Day                              | HELP ME     |
 
 - **cyber2**
 
