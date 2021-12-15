@@ -1,0 +1,5 @@
+#!/bin/bash
+text="By taking part in the Cyber Discovery programme, my ability to independently research and then apply knowledge from topics learnt was improved massively as many challenges required prerequisite knowledge to complete. For example, binary exploitation was a recurring theme found in many challenges which required a low level understanding of the CPU to be able to manipulate program execution by overwriting return addresses. Additionally, at the end of CyberFirst Advanced course, a CTF competition was held between randomly selected teams. The CTF had challenges relating to all topics covered throughout the course. My ability to work under pressure was developed as there we had a limited amount of time to complete challenges. Clear communication and teamwork were also necessary as it allowed us to collaborate and bounce ideas off each other to ensure we got through as many challenges as possible within the time constraints. "
+user=$(whoami)
+echo "Hello $user!"
+echo "$text"
